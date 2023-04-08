@@ -1,2 +1,4 @@
 *.suo
+*.sln
 chatGPT-WF/bin/
+.vs/
