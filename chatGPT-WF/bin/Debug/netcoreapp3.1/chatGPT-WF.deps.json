@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "chatGPT-WF/1.0.0": {
+        "runtime": {
+          "chatGPT-WF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chatGPT-WF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

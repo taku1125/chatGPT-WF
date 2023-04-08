@@ -1,0 +1,15 @@
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\bin\Debug\netcoreapp3.1\chatGPT-WF.exe
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\bin\Debug\netcoreapp3.1\chatGPT-WF.deps.json
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\bin\Debug\netcoreapp3.1\chatGPT-WF.runtimeconfig.json
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\bin\Debug\netcoreapp3.1\chatGPT-WF.runtimeconfig.dev.json
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\bin\Debug\netcoreapp3.1\chatGPT-WF.dll
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\bin\Debug\netcoreapp3.1\chatGPT-WF.pdb
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT-WF.csproj.AssemblyReference.cache
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT_WF.Form1.resources
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT-WF.csproj.GenerateResource.cache
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT-WF.AssemblyInfoInputs.cache
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT-WF.AssemblyInfo.cs
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT-WF.csproj.CoreCompileInputs.cache
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT-WF.dll
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT-WF.pdb
+D:\個人開発\src\cs\chatGPT-WF\chatGPT-WF\obj\Debug\netcoreapp3.1\chatGPT-WF.genruntimeconfig.cache
